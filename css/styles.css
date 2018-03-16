@@ -10,6 +10,7 @@ a{
   font-weight: bold;
   font-size: 25px;
   color: #e2934d;
+  text-decoration: underline;
 }
 
 .my-list-items{
