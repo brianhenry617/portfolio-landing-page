@@ -6,11 +6,21 @@ a{
   color: #8f1aef;
 }
 
+.brians-headers{
+  font-weight: bold;
+  font-size: 25px;
+  color: #e2934d;
+}
+
 .my-list-items{
   padding: 50px;
   font-size: 15px;
   font-weight: bold;
   font-style: italic;
+}
+
+h1{
+  color: #96ddb9;
 }
 
 img{
