@@ -1,11 +1,11 @@
-# _Portfolio Landding Page_
+# _Portfolio Landing Page_
 
 ### _This is my first solo project, 3/16/18_
 
 #### By _**Brian Henry**_
 
 ## Description
-_This is a friday project with very little on it_
+_This is a website about me_
 
 ## Setup/Installation Requirments
 * Click on link to brianhenry617.github.io/portfolio-landing-page

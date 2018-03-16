@@ -21,8 +21,13 @@ p{
 
 .padding{
   padding: 20px 0 20px 15px;
+  margin: 12px;
 }
 
 .my-list-items{
   padding: 50px;
+}
+
+head{
+  background-color: teal;
 }
