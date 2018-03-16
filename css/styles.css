@@ -17,17 +17,26 @@ a{
   font-size: 15px;
   font-weight: bold;
   font-style: italic;
+  text-decoration: underline;color: hotpink;
+  background-color: #85e2a4;
+  border: dotted;
 }
 
 h1{
   color: #200bc1;
   padding: 50px;
   background-color: #4f617c;
+  border: dotted;
 }
 
 img{
-  height: 80px;
-  width: 80px;
+  height: 150px;
+  width: 150px;
+  float: left;
+  border: 12px;
+  border: dotted;
+  color: blue;
+  padding: 10px 10px 10px 10px;
 }
 
 p{
